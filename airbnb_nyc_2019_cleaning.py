@@ -1,7 +1,7 @@
 
 """
 Airbnb NYC 2019 Data Cleaning Script
-Author: [Your Name]
+Author: Ramya Sri M
 Description: This script loads, cleans, and prepares the Airbnb New York City 2019 dataset
              for analysis and visualization. Outputs a clean CSV ready for Power BI or further analysis.
 """
