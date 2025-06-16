@@ -17,7 +17,7 @@ The project involves:
 ## 📊 Dataset Source
 
 - **Name:** Airbnb New York City 2019
-- **Source:** [Inside Airbnb – NYC Listings (2019)](http://insideairbnb.com/get-the-data.html)
+- **Source:** Kaggle
 - **Format:** CSV  
 - **Fields include:** `name`, `host_name`, `neighbourhood_group`, `room_type`, `price`, `minimum_nights`, `number_of_reviews`, `last_review`, `latitude`, `longitude`, etc.
 
